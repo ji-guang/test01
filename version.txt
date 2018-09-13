@@ -7,6 +7,10 @@ hello ding
 
 hello master01
 
+<<<<<<< HEAD
 hello dev
 
 hello master and dev01
+=======
+hello dev01
+>>>>>>> dev01
